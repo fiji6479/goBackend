@@ -53,7 +53,7 @@
 │   ├── swagger.json
 │   └── swagger.yaml
 │
-├── internal/              # Основная бизнес-логика
+├── internal/              # Основнаят логика
 │   ├── handler/           # HTTP и gRPC обработчики
 │   │   ├── handler.go
 │   │   └── grpc_server.go
